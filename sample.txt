@@ -1,0 +1,9 @@
+Friday, 09:00, John Smith, Bldg 8 Rm 123, @sample.com
+Tuesday, 10:15, Joe Doe, Bldg 3 Rm 345, @sample.com
+Monday, 14:30, Abdelfattah Amamra, Bldg 8 Rm 201, aamamra@cpp.edu
+Thursday, 11:00, David Johnson, Bldg 8 Rm A, @sample.com
+Wednesday, 11:00, David Johnson, Bldg 8 Rm A, @sample.com
+Wednesday, 17:45, Abdelfattah Amamra, Bldg 8 Rm 201, aamamra@cpp.edu
+Monday, 09:35, John Smith, Bldg 8 Rm 123, @sample.com
+Tuesday, 09:00, David Johnson, Bldg 8 Rm A, @sample.com
+Friday, 13:15, Joe Doe, Bldg 3 Rm 345, @sample.com
